@@ -19,22 +19,30 @@ The project focuses on making study management simple and efficient while implem
 Here are some screenshots demonstrating the working of StudyMate:
 
 1. Main Menu
-
+<img width="445" height="352" alt="Screenshot 2026-11-04 194434" src="https://github.com/user-attachments/assets/f250a72c-6641-44ba-b830-f87d6022bda3" />
 
 2. Adding a Study Task
-<img width="959" height="561" alt="image" src="https://github.com/user-attachments/assets/fe9753ba-dafe-472c-af81-e88b8c3ffc43" />
-
+<img width="469" height="326" alt="Screenshot 2026-11-04 194544" src="https://github.com/user-attachments/assets/5c702b21-9511-4850-b12d-54d63536c3da" />
 
 3. Viewing All Tasks
-
+<img width="569" height="344" alt="Screenshot 2026-11-04 194625" src="https://github.com/user-attachments/assets/2d39b6f6-8304-473d-84c7-3382cc7d5253" />
 
 4. Progress Report
-
+<img width="413" height="340" alt="Screenshot 2026-11-04 194732" src="https://github.com/user-attachments/assets/28470a3b-46b5-4e77-a40e-ef2a6e6f4e13" />
 
 5. Task Reminders
+<img width="527" height="442" alt="Screenshot 2026-11-04 194808" src="https://github.com/user-attachments/assets/2d81864d-6e46-4626-b457-6b4efb5819bc" />
 
+6. Search Task
+<img width="480" height="380" alt="Screenshot 2026-11-04 194953" src="https://github.com/user-attachments/assets/d194b7f3-540f-4c7d-9057-46ac539d02e7" />
 
-6. Search and Task Management
+7. Editting Task
+<img width="569" height="437" alt="Screenshot 2026-11-04 195143" src="https://github.com/user-attachments/assets/ec99025b-1538-4aba-ae2b-b8c34ff609b9" />
+
+8. Task Management
+<img width="485" height="320" alt="Screenshot 2026-11-04 195319" src="https://github.com/user-attachments/assets/cdccb8af-a0da-4eca-b268-83b4858bdd93" />
+
+<img width="500" height="331" alt="Screenshot 2026-11-04 195413" src="https://github.com/user-attachments/assets/5bd6998b-7fd3-4b45-8c1d-ba316266344c" />
 
 
 🛠️ Technologies Used
@@ -53,7 +61,7 @@ Here are some screenshots demonstrating the working of StudyMate:
 ⚙️ How to Run the Project
 Follow these steps to run StudyMate on your computer.
   1. Clone the Repository
-      git clone https://github.com/your-username/StudyMate.git
+      git clone https://github.com/ManshikaGarg/StudyMate.git
 
   2. Open the Project Folder
       cd StudyMate
